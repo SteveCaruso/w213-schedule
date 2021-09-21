@@ -1,6 +1,6 @@
 # West 213 Schedule
 
-## Spring 2021
+## Spring 2022
 
 |           |Monday     |Tuesday    |Wednesday  |Thursday   |Friday     |
 |---        |:---:      |:---:      |:---:      |:---:      |:---:      |
